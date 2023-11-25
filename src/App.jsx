@@ -247,13 +247,13 @@ const App = () => {
 				<footer className="small text-muted pt-5 pb-2 footer">
 					<div className="footer-info text-center">
 						<div className="copyright">
-							© 2020. Designed and built with
+							© 2023. Designed and built with
 							<span role="img" aria-label="Heart">
 								{' '}
 								❤️{' '}
 							</span>
 							by {' '}
-							<a href="https://github.com/raghavnarula/" title="GK STYLE">
+							<a href="https://github.com/raghavnarula/" title="raghav Narula">
 								Raghav Narula
 							</a>{' '}
 						</div>
