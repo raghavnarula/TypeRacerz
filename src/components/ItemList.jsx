@@ -11,5 +11,4 @@ const ItemList = ({ name, data, symble, ...rest }) => {
 		</li>
 	)
 }
-
 export default ItemList

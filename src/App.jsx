@@ -104,7 +104,6 @@ const App = () => {
 		<div className="App">
 			<div className="container-fluid pt-4">
 				<div className="row">
-					{/* Left */}
 					<div className="col-sm-6 col-md-2 order-md-0 px-5">
 						<ul className="list-unstyled text-center small">
 							<ItemList
